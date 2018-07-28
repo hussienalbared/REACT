@@ -1,0 +1,10 @@
+.conta{
+    border: 1px solid white;
+    width: 40%;
+    padding: 16px 12px;
+    font-family: Lora;
+    color: rgb(33, 37, 41);
+    border-radius: 8px;
+    background-color:#f8f9fa;
+    line-height: 1.5;
+}
